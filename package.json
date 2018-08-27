@@ -1,0 +1,22 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "description": "node proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "IT WORKS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardosaracino/node-proxy.git"
+  },
+  "author": "Ricardo Saracino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardosaracino/node-proxy/issues"
+  },
+  "homepage": "https://github.com/ricardosaracino/node-proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
